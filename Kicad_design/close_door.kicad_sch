@@ -4432,7 +4432,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "Battery:BatteryHolder_Renata_SMTU2032-LF_1x2032"
+			(property "Footprint" "Nadavs_Library:SMTU2450N1LF"
 				(at 16.51 -94.92 0)
 				(effects
 					(font
@@ -4512,11 +4512,12 @@
 				)
 			)
 			(property "LCSC" "C5443913"
-				(at 0 0 0)
+				(at -7.62 3.556 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(symbol "SMTU2450N-LF.TR_0_1"
@@ -8088,7 +8089,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:R_0805"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 241.3 151.638 90)
 			(effects
 				(font
@@ -10966,7 +10967,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:Q_SOT-23"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 			(at 252.222 149.86 90)
 			(effects
 				(font
@@ -12848,7 +12849,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 197.612 153.67 90)
 			(effects
 				(font
@@ -15401,7 +15402,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:C_0603"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 206.502 153.67 90)
 			(effects
 				(font
@@ -16321,7 +16322,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_JLCPCB:R_0805"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 247.142 130.81 90)
 			(effects
 				(font
@@ -16807,7 +16808,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Battery:BatteryHolder_Renata_SMTU2032-LF_1x2032"
+		(property "Footprint" "Nadavs_Library:SMTU2450N1LF"
 			(at 100.33 134.29 0)
 			(effects
 				(font
