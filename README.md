@@ -4,7 +4,7 @@ A small battery-powered analog reminder circuit for a shared-house door.
 
 If the door is left open for more than a short delay, the circuit emits a gentle beep sequence as a reminder to close it. The design is intentionally implemented without a microcontroller, using discrete analog/timing logic.
 
-<img src="Kicad_design\close_door.jpg" alt="PCB render" width="600">
+<img src="Kicad_design\close_door_3D.jpg" alt="PCB render" width="600">
 
 
 ## Motivation
@@ -20,6 +20,8 @@ This project started from a real everyday problem: people passing through a shar
 * Gentle, non-intrusive acoustic reminder
 * Simple PCB suitable for low-cost fabrication and assembly
 * Designed as a first independent end-to-end PCB project
+
+<img src="Kicad_design/close_door.jpg" alt="schematic render" width="600">
 
 ## System Overview
 
