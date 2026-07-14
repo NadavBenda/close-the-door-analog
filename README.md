@@ -70,7 +70,11 @@ Planned next steps:
 * Measure timing signals
 * Tune beep timing and volume
 * Document bring-up results
-* Decide changes for Rev B
+
+
+## Known Limitations 
+
+Capacitor Discharge Time: Because the timing circuit is purely analog, the timing capacitor requires a brief period to discharge fully after the door is closed. If the door is cycled (opened and closed) in very rapid succession, the capacitor may remain partially charged, causing the subsequent alarm delay to trigger sooner than the configured duration.
 
 ## License
 
