@@ -60,16 +60,11 @@ Main design considerations included:
 
 ## Status
 
-Revision A has been sent to fabrication.
+Assembled
 
-Planned next steps:
 
-* Assemble / receive PCB
-* Verify power rails
-* Test reed-switch behavior
-* Measure timing signals
-* Tune beep timing and volume
-* Document bring-up results
+<img src="IMG20260712165002.jpg" width="600">
+
 
 
 ## Known Limitations 
